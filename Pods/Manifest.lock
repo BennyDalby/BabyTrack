@@ -1,0 +1,32 @@
+PODS:
+  - CardsLayout (0.0.1)
+  - Macaw (0.9.6):
+    - SWXMLHash
+  - SWXMLHash (5.0.1)
+  - UPCarouselFlowLayout (1.1.2)
+  - ViewAnimator (2.7.0)
+
+DEPENDENCIES:
+  - CardsLayout
+  - Macaw
+  - UPCarouselFlowLayout
+  - ViewAnimator
+
+SPEC REPOS:
+  trunk:
+    - CardsLayout
+    - Macaw
+    - SWXMLHash
+    - UPCarouselFlowLayout
+    - ViewAnimator
+
+SPEC CHECKSUMS:
+  CardsLayout: ceeb8f9c26319b47a2f0995ea4590cf7ba881462
+  Macaw: 8306d775625ba003beee4186b9533fd7cf284024
+  SWXMLHash: 9cc0c2e4807926c74377724aa8722ee5707a0485
+  UPCarouselFlowLayout: 4c7d2c43a10ebb1597bde502a53699d378341dad
+  ViewAnimator: 5af1c6f3b310f012bf081259c43717aa54fbae73
+
+PODFILE CHECKSUM: 5d2204e3617056bd82593e50c288f00368893025
+
+COCOAPODS: 1.9.1
